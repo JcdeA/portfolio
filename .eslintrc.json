@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "solid",
+    "prettier"
+  ],
+  "extends": [
+    "eslint/recommended",
+    "prettier",
+    "plugin:solid/recommended"
+  ]
+}
